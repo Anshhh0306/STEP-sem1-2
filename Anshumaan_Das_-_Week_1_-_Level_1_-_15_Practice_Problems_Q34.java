@@ -1,0 +1,1 @@
+System.out.println("The total sum is: " + total);

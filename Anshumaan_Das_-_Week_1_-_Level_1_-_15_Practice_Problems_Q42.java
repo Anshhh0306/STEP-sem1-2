@@ -1,0 +1,1 @@
+int sumFormula = n * (n + 1) / 2;

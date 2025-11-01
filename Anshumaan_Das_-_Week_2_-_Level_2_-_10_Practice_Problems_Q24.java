@@ -1,0 +1,2 @@
+double tallestHeight = Math.max(heightAmar, Math.max(heightAkbar, heightAnthony));
+String tallestFriend = (tallestHeight == heightAmar) ? "Amar" : (tallestHeight == heightAkbar) ? "Akbar" : "Anthony";
